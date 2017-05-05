@@ -44,11 +44,19 @@ Thumbs.db
 #########
 target/
 
-# Other IDE's#
-##############
-\.classpath
-\.project
-\.settings
-\.checkstyle
-\.dorsync
-/nbactions.xml
+# IDEs #
+########
+.classpath
+.metadata/
+.project
+.settings
+.checkstyle
+nbactions.xml
+
+# Other things #
+################
+ajcore.*.txt
+test-output/
+logs/
+null/
+screenshots/
